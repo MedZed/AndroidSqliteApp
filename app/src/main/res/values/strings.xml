@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="app_name">Electroworks</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Create account</string>
+    <string name="text_welcome">Welcome to Electroworks</string>
+    <string name="logo">Logo</string>
+    <string name="text_name">Name</string>
+    <string name="text_surname">Surname</string>
+    <string name="text_cin">NCIN</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_confirm_password">Password</string>
+    <string name="success_db_message">Added to database</string>
+    <string name="error_db_message">Could not add to database</string>
+    <string name="error_message_email">Wrong Email</string>
+    <string name="error_message_email_exist">Email already exisits</string>
+    <string name="error_message_wrong_login">Make sure your passwordd or email are correct</string>
+    <string name="error_message_fill_email">Please insert email</string>
+    <string name="error_message_fill_name">Please insert name</string>
+    <string name="error_message_fill_surname">Please insert surname</string>
+    <string name="error_message_fill_ncin">Please insert ncin</string>
+    <string name="error_message_fill_password">Please insert password</string>
+    <string name="error_password_match">Password doesnt match</string>
+    <string name="message_welcome_admin">Welcome admin : </string>
+    <string name="message_welcome_user">Welcome user : </string>
+    <string name="electro">ELECTROWORKS</string>
+    <string name="img">Electroworks</string>
+    <string name="create_account">No account yet? Create one</string>
+    <string name="log_to_account">You have an account? log in</string>
+</resources>
